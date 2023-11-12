@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Love Letter</title>
+    <link rel="stylesheet" type="text/css" href="love_letter.css">
+    <style>
+        body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.love-letter {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    padding: 20px;
+    max-width: 600px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.love-letter h1 {
+    font-size: 24px;
+    color: #ff008c;
+}
+
+.love-letter p {
+    margin-bottom: 20px;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #ff008c;
+}
+
+p {
+  color: #333;
+}
+    </style>
+</head>
+<body>
+    <h1>Welcome to my site!</h1>
+  <p>This is a sample paragraph.</p>
+
+    <div class="love-letter">
+        <h1>Hi teh Asraf,</h1>
+        <p>pogi mo teh depota ka .</p>
+        <p>ganda ko lang wala lang,</p>
+        <p>trisha =) </p>
+    </div>
+</body>
